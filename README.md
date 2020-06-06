@@ -6,7 +6,7 @@ Web Programming with Python and JavaScript
 - List
 - Hyperlink
 - Table
-- Iage
+- Image
 - Stylesheet
 - CSS properties
 - SCSS usage
