@@ -1,22 +1,30 @@
-td
-{
-    color: green;
+tr {
+	color: green;
 }
-.smolcaps
-{
-    font-variant: small-caps;
+
+tr td {
+	font-weight: 900;
 }
-#wideone
-{
-    font-weight: 900;
+
+.smolcaps {
+	text-decoration: underline;
+	font-weight: 200;
 }
-h1
-{
-    background-color: coral;
+
+.smolcaps {
+	font-variant: small-caps;
 }
-.titanic
-{
-    font-style: oblique;
-    background-color: black;
-    color: white;
+
+#wideone {
+	font-weight: 900;
+}
+
+h1 {
+	background-color: coral;
+}
+
+.titanic {
+	font-style: oblique;
+	background-color: black;
+	color: white;
 }

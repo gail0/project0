@@ -1,15 +1,23 @@
-td
+tr
 {
     color: green;
-    ul
+    td
     {
         font-weight:900;
     }
 }
+
+%emphasize
+{
+    text-decoration: underline;
+    font-weight: 200;
+}
 .smolcaps
 {
+    @extend %emphasize;
     font-variant: small-caps;
 }
+
 #wideone
 {
     font-weight: 900;
