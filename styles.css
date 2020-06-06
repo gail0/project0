@@ -1,0 +1,22 @@
+td
+{
+    color: green;
+}
+.smolcaps
+{
+    font-variant: small-caps;
+}
+#wideone
+{
+    font-weight: 900;
+}
+h1
+{
+    background-color: coral;
+}
+.titanic
+{
+    font-style: oblique;
+    background-color: black;
+    color: white;
+}
